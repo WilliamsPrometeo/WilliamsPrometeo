@@ -10,8 +10,7 @@ Aquí encontrarás teoría, ejemplos, ejercicios propuestos y resueltos, organiz
 
 ```
 /01_clases
-/02_ejercicios_resueltos
-/03_proyectos_practicos
+/02_ejercicios
 README.md
 ```
 
