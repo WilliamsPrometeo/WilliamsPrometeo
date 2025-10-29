@@ -26,7 +26,9 @@ Cada carpeta contiene material didáctico, código comentado y actividades prác
 ✅ Condicionales (`if`, `else`, `switch`)  
 ✅ Bucles (`for`, `while`, `do...while`)  
 ✅ Métodos y modularización del código  
-✅ Ejercicios prácticos y pequeños proyectos  
+✅ Ejercicios prácticos y pequeños proyectos
+✅ Clases y objetos.
+✅ Introducción a POO
 
 ---
 
@@ -34,7 +36,7 @@ Cada carpeta contiene material didáctico, código comentado y actividades prác
 
 1. **Clona o descarga** el repositorio:  
    ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+   git clone [https://github.com/WilliamsPrometeo/programacion.git](https://github.com/WilliamsPrometeo/programacion.git)
    ```
 
 2. **Abre** el proyecto en tu entorno de desarrollo preferido  
